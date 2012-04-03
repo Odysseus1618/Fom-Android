@@ -172,10 +172,11 @@ containing a value of this type.
         public static final int ic_title_home_demo=0x7f02000b;
         public static final int ic_title_share_default=0x7f02000c;
         public static final int icon=0x7f02000d;
-        public static final int refreshable_listview_arrow=0x7f02000e;
-        public static final int stripe=0x7f02000f;
-        public static final int usamap=0x7f020010;
-        public static final int usb_android=0x7f020011;
+        public static final int mapaupdce=0x7f02000e;
+        public static final int refreshable_listview_arrow=0x7f02000f;
+        public static final int stripe=0x7f020010;
+        public static final int usamap=0x7f020011;
+        public static final int usb_android=0x7f020012;
     }
     public static final class id {
         public static final int ProgressBar01=0x7f0a0016;

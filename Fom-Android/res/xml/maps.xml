@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <maps xmlns:android="http://schemas.android.com/apk/res/android">
-    <map name="gridmap">
+    <!-- map name="gridmap">
         <area name="one" shape="rect" coords="118,124,219,226" id="@+id/area1001"/>
         <area name="two" shape="rect" coords="474,374,574,476" id="@+id/area1002"/>        
         <area name="four" shape="rect" coords="710,878,808,980" id="@+id/area1004"/>
@@ -57,5 +57,20 @@
 		<area shape="poly" coords="532,111,545,113,544,120,542,142,529,135,535,124,530,117" id="@+id/area45" name = "New Jersey"/>
 		<area shape="poly" coords="531,139,540,153,534,153" id="@+id/area48" name = "Delaware"/>
 		<area shape="poly" coords="486,146,529,136,536,155,536,161,515,156,511,144" id="@+id/area46" name = "Maryland"/>
+	</map-->
+	<map name="updce">
+		<area shape="rect" coords="5,73,130,575" id="@+id/area1" name="CFIE"/>
+		<area shape="rect" coords="461,495,725,751" id="@+id/area2" name="SALA ANGUIANO"/>
+		<area shape="rect" coords="726,426,1072,690" id="@+id/area3" name="SALA CIRCULAR"/>
+		<area shape="rect" coords="724,59,1069,424" id="@+id/area4" name="AUDITORIO PRINCIPAL"/>
+		<area shape="rect" coords="190,22,319,55" id="@+id/area5" name="TECNOPOLI"/>
+		<area shape="circle" coords="365,333,94" id="@+id/area6" name="AUDITORIO CONICO"/>
+		<area shape="poly" coords="348,489,518,489,519,415,486,403,522,326,460,324,459,360,436,399,394,427,351,429" id="@+id/area7" name="PASILLO CONICO"/>
+		<area shape="poly" coords="622,219,722,220,721,494,663,495,664,340,567,340,622,217,618,217" id="@+id/area8" name="PASILLO ENLACE"/>
+		<area shape="poly" coords="527,420,489,400,576,214,620,219" id="@+id/area9" name="ADMINISTRACION"/>
+		<area shape="poly" coords="132,59,724,59,721,218,571,218,522,329,458,324,458,293,406,239,345,236,288,266,268,328,134,325" id="@+id/area10" name="HALL"/>
+		<area shape="poly" coords="133,329,269,330,273,363,294,398,328,426,348,428,348,577,131,577" id="@+id/area11" name="RECEPCION"/>
+		<area shape="rect" coords="6,577,349,760" id="@+id/area12" name="EXPLANADA"/>
+		<!-- Created by Online Image Map Editor (http://www.maschek.hu/imagemap/index) -->
 	</map>
 </maps>

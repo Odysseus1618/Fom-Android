@@ -22,10 +22,10 @@
     <color name="actionbar_background_item_pressed_end">#EE7600</color>
 </resources-->
 <resources>
-    <color name="actionbar_separator">#3E3E3E</color>
-    <color name="actionbar_title">#FFFFFF</color>
-    <color name="actionbar_background_start">#6F6E6E</color>
-    <color name="actionbar_background_end">#3B3B3B</color>
+    <color name="actionbar_separator">#25B3D6</color>
+    <color name="actionbar_title">#FF8C41</color>
+    <color name="actionbar_background_start">#5DC9E5</color>
+    <color name="actionbar_background_end">#ABE3F1</color>
     <color name="actionbar_background_item_pressed_start">#FF7F00</color>
     <color name="actionbar_background_item_pressed_end">#EE7600</color>
 </resources>
